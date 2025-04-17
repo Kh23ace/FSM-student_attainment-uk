@@ -1,0 +1,7 @@
+Requirements:
+
+pandas
+matplotlib
+geopandas
+plotly
+folium
